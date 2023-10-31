@@ -15,14 +15,18 @@
     <div class="container-fluid sticky-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
-                <a href="index.php" class="navbar-brand">
-                    <!-- <img class="img-fluid" width="10%" height="10%" src="img/SAT_Logo.png" alt=""> -->
-                </a>
-                <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
-                    data-bs-target="#navbarCollapse">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <a href="index.php" class="navbar-brand">
+                            <img class="img-fluid" width="20%" height="20%" src="img/SAT_Logo.png" alt="">
+                        </a>
+                        <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
+                            data-bs-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+                    <div class="col-lg-6 ">
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="index.php" class="nav-item nav-link  <?php echo ($currentPage1 === 'index.php') ? 'active' : ''; ?>">Home</a>
                         <a href="about.php" class="nav-item nav-link <?php echo ($currentPage1 === 'about.php') ? 'active' : ''; ?>">About Us</a>
@@ -34,6 +38,10 @@
                     <butaton type="button" class="btn text-white p-0 d-none d-lg-block" data-bs-toggle="modal"
                         data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
                 </div>
+                    </div>
+                </div>
+                
+                
             </nav>
         </div>
     </div>
