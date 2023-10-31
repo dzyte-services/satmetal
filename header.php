@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <a href="index.php" class="navbar-brand">
-                            <img class="img-fluid" width="20%" height="20%" src="img/SAT_Logo.png" alt="">
+                            <img class="img-fluid" width="30%" height="30%" src="img/SAT_Logo.png" alt="">
                         </a>
                         <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                             data-bs-target="#navbarCollapse">

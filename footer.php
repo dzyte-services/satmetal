@@ -26,11 +26,11 @@
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.5s">
                     <h5 class="text-white mb-4">Popular Link</h5>
-                    <a class="btn btn-link" href="">Home</a>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Services</a>
-                    <a class="btn btn-link" href="">Gallery</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
+                    <a class="btn btn-link" href="index.php">Home</a>
+                    <a class="btn btn-link" href="about.php">About Us</a>
+                    <a class="btn btn-link" href="service.php">Services</a>
+                    <a class="btn btn-link" href="project.php">Gallery</a>
+                    <a class="btn btn-link" href="contact.php">Contact Us</a>
                 </div>
                 <!-- <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
                     <h5 class="text-white mb-4">Our Services</h5>
