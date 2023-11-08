@@ -146,13 +146,8 @@ h6,
 /*** Hero Header ***/
 .hero-header {
     margin-top: -75px;
-    background: url(../img/background2.webp) center center no-repeat ;
+    background: url(../img/background2.webp)  no-repeat ;
     background-size: cover;
-    width: 100%;
-    background-size: cover;
-    position: relative;
-    min-height: 60vh;
-    padding: 160px 0 60px 0;
     
 }
 .hero-header::before {
