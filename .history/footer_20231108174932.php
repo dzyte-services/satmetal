@@ -4,7 +4,7 @@
             <div class="row g-5">
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                     <a href="index.php" class="d-inline-block mb-3">
-                    <img class="img-fluid" width="100%" src="img/logo2.jpeg" alt="">
+                    <img class="img-fluid border-1" width="100%" src="img/logo2.jpeg" alt="">
                     </a>
                     <!-- <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
                         amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus

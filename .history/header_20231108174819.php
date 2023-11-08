@@ -25,7 +25,7 @@
                             <span class="navbar-toggler-icon"></span>
                         </button>
                     </div>
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-8 ">
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="index.php" class="nav-item nav-link  <?php echo ($currentPage1 === 'index.php') ? 'active' : ''; ?>">Home</a>

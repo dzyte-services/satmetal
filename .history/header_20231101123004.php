@@ -16,16 +16,16 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-4">
                         <a href="index.php" class="navbar-brand">
-                            <img class="img-fluid" width="40%" height="40%" src="img/logo2.jpeg" alt="">
+                            <img class="img-fluid" width="40%" height="40%" src="img/logo1.jpeg" alt="">
                         </a>
                         <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                             data-bs-target="#navbarCollapse">
                             <span class="navbar-toggler-icon"></span>
                         </button>
                     </div>
-                    <div class="col-lg-6 ">
+                    <div class="col-lg-8 ">
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto">
                         <a href="index.php" class="nav-item nav-link  <?php echo ($currentPage1 === 'index.php') ? 'active' : ''; ?>">Home</a>
