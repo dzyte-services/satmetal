@@ -151,8 +151,7 @@ h6,
     width: 100%;
     background-size: cover;
     position: relative;
-    min-height: 60vh;
-    padding: 25vh;
+    /* min-height: 60vh; */
     
 }
 .hero-header::before {
